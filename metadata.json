@@ -1,0 +1,17 @@
+{
+    "id": "cathcart_et_al2020",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "url": "http://dx.doi.org/10.1075/dia.22031.gol",
+    "citation": "Goldstein, D. (2024). Divergence-time estimation in Indo-European. Diachronica. https://doi.org/10.1075/dia.22031.gol",
+    "name": "Divergence-time estimation in Indo-European: The case of Latin",
+    "author": "Cathcart et al.",
+    "year": 2020,
+    "scaling": "?",
+    "analysis": "bayesian",
+    "family": "Indo-European",
+    "cldf": "",
+    "artefacts": ["https://zenodo.org/records/8060376"],
+    "missing": {
+        "characters": "not available"
+    }
+}
