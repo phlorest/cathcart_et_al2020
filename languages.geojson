@@ -1,0 +1,950 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.16,
+          46.09
+        ]
+      },
+      "properties": {
+        "Name": "Agia_Varvara_Romani_vlax1238",
+        "Glottocode": "vlax1238",
+        "Glottolog_Name": "Vlax Romani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2932,
+          26.0876
+        ]
+      },
+      "properties": {
+        "Name": "Assamese_assa1263",
+        "Glottocode": "assa1263",
+        "Glottolog_Name": "Assamese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.112,
+          34.217
+        ]
+      },
+      "properties": {
+        "Name": "Avestan_aves1237",
+        "Glottocode": "aves1237",
+        "Glottolog_Name": "Avestan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.4663,
+          27.5907
+        ]
+      },
+      "properties": {
+        "Name": "Awadhi_awad1243",
+        "Glottocode": "awad1243",
+        "Glottolog_Name": "Awadhi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.85,
+          36.81
+        ]
+      },
+      "properties": {
+        "Name": "Bactrian_bact1239",
+        "Glottocode": "bact1239",
+        "Glottolog_Name": "Bactrian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.06,
+          31.4
+        ]
+      },
+      "properties": {
+        "Name": "Bagri_bagr1243",
+        "Glottocode": "bagr1243",
+        "Glottolog_Name": "Bagri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.7713,
+          32.0163
+        ]
+      },
+      "properties": {
+        "Name": "Bakhtiyari_bakh1245",
+        "Glottocode": "bakh1245",
+        "Glottolog_Name": "Bakhtiari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0,
+          24.0
+        ]
+      },
+      "properties": {
+        "Name": "Bengali_beng1280",
+        "Glottocode": "beng1280",
+        "Glottolog_Name": "Bengali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.817115,
+          26.458455
+        ]
+      },
+      "properties": {
+        "Name": "Bhojpuri_bhoj1244",
+        "Glottocode": "bhoj1244",
+        "Glottolog_Name": "Bhojpuri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.3593,
+          31.0405
+        ]
+      },
+      "properties": {
+        "Name": "Dari_dari1249",
+        "Glottocode": "dari1249",
+        "Glottolog_Name": "Dari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.54433,
+          1.928498
+        ]
+      },
+      "properties": {
+        "Name": "Dhivehi_dhiv1236",
+        "Glottocode": "dhiv1236",
+        "Glottolog_Name": "Dhivehi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0,
+          32.0
+        ]
+      },
+      "properties": {
+        "Name": "Domari_doma1258",
+        "Glottocode": "doma1258",
+        "Glottolog_Name": "Domari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7984,
+          36.3258
+        ]
+      },
+      "properties": {
+        "Name": "Dumaki_doma1260",
+        "Glottocode": "doma1260",
+        "Glottolog_Name": "Domaaki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.8359,
+          37.1344
+        ]
+      },
+      "properties": {
+        "Name": "Gilaki_gila1241",
+        "Glottocode": "gila1241",
+        "Glottolog_Name": "Gilaki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0962,
+          22.687
+        ]
+      },
+      "properties": {
+        "Name": "Gujarati_guja1252",
+        "Glottocode": "guja1252",
+        "Glottolog_Name": "Gujarati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0,
+          25.0
+        ]
+      },
+      "properties": {
+        "Name": "Hindi_hind1269",
+        "Glottocode": "hind1269",
+        "Glottolog_Name": "Hindi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.61,
+          42.98
+        ]
+      },
+      "properties": {
+        "Name": "Iron_Ossetic_osse1243",
+        "Glottocode": "osse1243",
+        "Glottolog_Name": "Modern Ossetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.55,
+          36.67
+        ]
+      },
+      "properties": {
+        "Name": "Ishkashimi_ishk1246",
+        "Glottocode": "ishk1246",
+        "Glottolog_Name": "Ishkashimi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.264749,
+          42.068306
+        ]
+      },
+      "properties": {
+        "Name": "Judeo-Tati_jude1256",
+        "Glottocode": "jude1256",
+        "Glottolog_Name": "Judeo-Tat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0154,
+          35.3389
+        ]
+      },
+      "properties": {
+        "Name": "Kalam_Kohistani_indu1241",
+        "Glottocode": "indu1241",
+        "Glottolog_Name": "Indus Kohistani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.6657,
+          35.6415
+        ]
+      },
+      "properties": {
+        "Name": "Kalasha_kala1372",
+        "Glottocode": "kala1372",
+        "Glottolog_Name": "Chitral Kalasha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.330455,
+          34.166825
+        ]
+      },
+      "properties": {
+        "Name": "Kashmiri_kash1277",
+        "Glottocode": "kash1277",
+        "Glottolog_Name": "Kashmiri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.04,
+          38.33
+        ]
+      },
+      "properties": {
+        "Name": "Khotanese_Saka_khot1251",
+        "Glottocode": "khot1251",
+        "Glottolog_Name": "Khotanese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.0,
+          36.0
+        ]
+      },
+      "properties": {
+        "Name": "Khowar_khow1242",
+        "Glottocode": "khow1242",
+        "Glottolog_Name": "Khowar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.75,
+          41.68
+        ]
+      },
+      "properties": {
+        "Name": "Khwarezmian_khwa1238",
+        "Glottocode": "khwa1238",
+        "Glottolog_Name": "Khwarezmian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.994,
+          18.404
+        ]
+      },
+      "properties": {
+        "Name": "Konkani_konk1267",
+        "Glottocode": "konk1267",
+        "Glottolog_Name": "Konkan Marathi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.4202,
+          26.1602
+        ]
+      },
+      "properties": {
+        "Name": "Kumzari_kumz1235",
+        "Glottocode": "kumz1235",
+        "Glottolog_Name": "Kumzari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2211,
+          26.3817
+        ]
+      },
+      "properties": {
+        "Name": "Maithili_mait1250",
+        "Glottocode": "mait1250",
+        "Glottolog_Name": "Maithili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6665,
+          17.9344
+        ]
+      },
+      "properties": {
+        "Name": "Marathi_mara1378",
+        "Glottocode": "mara1378",
+        "Glottolog_Name": "Marathi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0656,
+          27.002
+        ]
+      },
+      "properties": {
+        "Name": "Marwari_marw1260",
+        "Glottocode": "marw1260",
+        "Glottolog_Name": "Marwari (India)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.3009,
+          36.241
+        ]
+      },
+      "properties": {
+        "Name": "Mazandarani_maza1291",
+        "Glottocode": "maza1291",
+        "Glottolog_Name": "Mazanderani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.68,
+          24.57
+        ]
+      },
+      "properties": {
+        "Name": "Mewati_mewa1249",
+        "Glottocode": "mewa1249",
+        "Glottolog_Name": "Mewari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.7,
+          30.06
+        ]
+      },
+      "properties": {
+        "Name": "Middle_Persian_pahl1241",
+        "Glottocode": "pahl1241",
+        "Glottolog_Name": "Pahlavi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.97,
+          26.61
+        ]
+      },
+      "properties": {
+        "Name": "Modern_Persian_midd1350",
+        "Glottocode": "midd1350",
+        "Glottolog_Name": "Late Middle Indo-Aryan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0,
+          28.0
+        ]
+      },
+      "properties": {
+        "Name": "Nepali_nepa1254",
+        "Glottocode": "nepa1254",
+        "Glottolog_Name": "Nepali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.198,
+          26.473
+        ]
+      },
+      "properties": {
+        "Name": "Old_East_Rajasthani_dhun1238",
+        "Glottocode": "dhun1238",
+        "Glottolog_Name": "Dhundari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.0,
+          32.0
+        ]
+      },
+      "properties": {
+        "Name": "Old_Persian_oldp1254",
+        "Glottocode": "oldp1254",
+        "Glottolog_Name": "Old Persian (ca. 600-400 B.C.)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0,
+          21.0
+        ]
+      },
+      "properties": {
+        "Name": "Oriya_oriy1255",
+        "Glottocode": "oriy1255",
+        "Glottolog_Name": "Odia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.3444,
+          32.6819
+        ]
+      },
+      "properties": {
+        "Name": "Ormuri_ormu1247",
+        "Glottocode": "ormu1247",
+        "Glottolog_Name": "Ormuri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.251,
+          24.5271
+        ]
+      },
+      "properties": {
+        "Name": "Pali_pali1273",
+        "Glottocode": "pali1273",
+        "Glottolog_Name": "Pali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.8421,
+          35.5096
+        ]
+      },
+      "properties": {
+        "Name": "Palula_phal1254",
+        "Glottocode": "phal1254",
+        "Glottolog_Name": "Palula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6702,
+          30.0368
+        ]
+      },
+      "properties": {
+        "Name": "Panjabi_panj1256",
+        "Glottocode": "panj1256",
+        "Glottolog_Name": "Eastern Panjabi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.8805,
+          36.0432
+        ]
+      },
+      "properties": {
+        "Name": "Parachi_para1299",
+        "Glottocode": "para1299",
+        "Glottolog_Name": "Parachi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.056,
+          37.052
+        ]
+      },
+      "properties": {
+        "Name": "Parthian_part1239",
+        "Glottocode": "part1239",
+        "Glottolog_Name": "Parthian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.71,
+          19.18
+        ]
+      },
+      "properties": {
+        "Name": "Prakrit_maha1305",
+        "Glottocode": "maha1305",
+        "Glottolog_Name": "Maharastri Prakrit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.17,
+          37.83
+        ]
+      },
+      "properties": {
+        "Name": "Rakhshani_Baluchi_west2368",
+        "Glottocode": "west2368",
+        "Glottolog_Name": "Western Balochi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.3,
+          35.72
+        ]
+      },
+      "properties": {
+        "Name": "Sangesari_sang1315",
+        "Glottocode": "sang1315",
+        "Glottolog_Name": "Sangisari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0,
+          20.0
+        ]
+      },
+      "properties": {
+        "Name": "Sanskrit_sans1269",
+        "Glottocode": "sans1269",
+        "Glottolog_Name": "Sanskrit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1449,
+          37.905
+        ]
+      },
+      "properties": {
+        "Name": "Sariqoli_sari1246",
+        "Glottocode": "sari1246",
+        "Glottolog_Name": "Sarikoli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9427,
+          9.99172
+        ]
+      },
+      "properties": {
+        "Name": "Saurashtran_saur1248",
+        "Glottocode": "saur1248",
+        "Glottolog_Name": "Saurashtra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.287,
+          34.6515
+        ]
+      },
+      "properties": {
+        "Name": "Shina_shin1264",
+        "Glottocode": "shin1264",
+        "Glottolog_Name": "Shina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.7925,
+          37.5018
+        ]
+      },
+      "properties": {
+        "Name": "Shughni_shug1248",
+        "Glottocode": "shug1248",
+        "Glottolog_Name": "Shughni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0,
+          26.0
+        ]
+      },
+      "properties": {
+        "Name": "Sindhi_sind1272",
+        "Glottocode": "sind1272",
+        "Glottolog_Name": "Sindhi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "Name": "Sinhala_sinh1246",
+        "Glottocode": "sinh1246",
+        "Glottolog_Name": "Sinhala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.906,
+          29.5534
+        ]
+      },
+      "properties": {
+        "Name": "Siraiki_sera1259",
+        "Glottocode": "sera1259",
+        "Glottolog_Name": "Saraiki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.983,
+          39.7
+        ]
+      },
+      "properties": {
+        "Name": "Sogdian_sogd1245",
+        "Glottocode": "sogd1245",
+        "Glottolog_Name": "Sogdian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.8077,
+          35.6539
+        ]
+      },
+      "properties": {
+        "Name": "Sorani_Kurdish_cent1972",
+        "Glottocode": "cent1972",
+        "Glottolog_Name": "Central Kurdish"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3677,
+          35.7267
+        ]
+      },
+      "properties": {
+        "Name": "South_Tati_esht1238",
+        "Glottocode": "esht1238",
+        "Glottolog_Name": "Eshtehardi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6349,
+          38.4552
+        ]
+      },
+      "properties": {
+        "Name": "Taleshi_taly1247",
+        "Glottocode": "taly1247",
+        "Glottolog_Name": "North-Central Talysh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5316,
+          35.3101
+        ]
+      },
+      "properties": {
+        "Name": "Torwali_torw1241",
+        "Glottocode": "torw1241",
+        "Glottolog_Name": "Torwali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9777,
+          37.1768
+        ]
+      },
+      "properties": {
+        "Name": "Wakhi_wakh1245",
+        "Glottocode": "wakh1245",
+        "Glottolog_Name": "Wakhi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.2422,
+          39.1486
+        ]
+      },
+      "properties": {
+        "Name": "Yaghnobi_yagn1238",
+        "Glottocode": "yagn1238",
+        "Glottolog_Name": "Yagnobi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6388,
+          38.6147
+        ]
+      },
+      "properties": {
+        "Name": "Zazaki_diml1238",
+        "Glottocode": "diml1238",
+        "Glottolog_Name": "Dimli"
+      }
+    }
+  ]
+}
