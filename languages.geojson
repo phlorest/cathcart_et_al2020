@@ -141,8 +141,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          67.3593,
-          31.0405
+          66.14961,
+          34.39757
         ]
       },
       "properties": {
@@ -252,8 +252,8 @@
       },
       "properties": {
         "Name": "Iron_Ossetic_osse1243",
-        "Glottocode": "osse1243",
-        "Glottolog_Name": "Modern Ossetic"
+        "Glottocode": "iron1242",
+        "Glottolog_Name": "Iron Ossetian"
       }
     },
     {
@@ -681,8 +681,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          62.17,
-          37.83
+          66.02877,
+          29.49928
         ]
       },
       "properties": {

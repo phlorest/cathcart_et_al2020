@@ -21,13 +21,13 @@
         {
             "rdf:about": "https://github.com/phlorest/cathcart_et_al2020",
             "rdf:type": "prov:Entity",
-            "dc:created": "0615e44",
+            "dc:created": "e54a7f0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.1",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         },
         {
@@ -40,7 +40,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.12.13"
+            "dc:description": "3.14.8"
         },
         {
             "dc:title": "python-packages",
