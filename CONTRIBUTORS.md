@@ -2,7 +2,7 @@
 
 Name                           | GitHub user     | Description    | Role
 ---                            | ---             | ---            | ---
-Chundra Cathcart               |                 | author         | Author
+Chundra A. Cathcart            |                 | author         | Author
 Andreas Hölzl                  |                 | author         | Author
 Gerhard Jäger                  |                 | author         | Author
 Paul Widmer                    |                 | author         | Author
